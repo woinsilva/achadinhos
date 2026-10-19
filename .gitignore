@@ -1,0 +1,12 @@
+# Local credentials and machine files
+.env
+.env.*
+!.env.example
+client_secret*.json
+*credentials*.json
+*token*.json
+*.pem
+*.key
+Thumbs.db
+.DS_Store
+tiktok*.txt
